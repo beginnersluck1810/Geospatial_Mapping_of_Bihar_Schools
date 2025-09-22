@@ -9,7 +9,7 @@ The visualization highlights each school’s location, district boundaries, and 
 
 https://tracker.bepcssa.in/PMShri_School/PM_Shri_School_On_Map.aspx - Published on PM SHRI PORTAL 
 ---
-https://beginnersluck1810.github.io/Geospatial_Mapping_of_Bihar_Schools/ - Published GITHUB Page 
+[Published GitHub Page](https://beginnersluck1810.github.io/Geospatial_Mapping_of_Bihar_Schools/)
 ---
 🔗 [Published on PM SHRI Portal](https://tracker.bepcssa.in/PMShri_School/PM_Shri_School_On_Map.aspx)
 
