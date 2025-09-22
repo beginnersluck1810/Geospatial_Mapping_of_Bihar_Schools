@@ -7,14 +7,10 @@ The visualization highlights each school’s location, district boundaries, and 
 
 📢 Proud moment: this work, which started as a small sibling favour, has now been **adopted by the Ministry of Education, Bihar** and published on the **official PM SHRI Portal** of the **Ministry of Education, Government of India**.  
 
-https://tracker.bepcssa.in/PMShri_School/PM_Shri_School_On_Map.aspx - Published on PM SHRI PORTAL 
+[Published on PM SHRI Portal](https://tracker.bepcssa.in/PMShri_School/PM_Shri_School_On_Map.aspx)
 ---
 [Published GitHub Page](https://beginnersluck1810.github.io/Geospatial_Mapping_of_Bihar_Schools/)
 ---
-🔗 [Published on PM SHRI Portal](https://tracker.bepcssa.in/PMShri_School/PM_Shri_School_On_Map.aspx)
-
-🔗 [Published GitHub Page](https://beginnersluck1810.github.io/Geospatial_Mapping_of_Bihar_Schools/)
-
 
 ## 🔹 Problem Statement  
 The challenge was to take a raw, unorganized Excel dataset of schools and transform it into a clear, interactive visualization where:  
