@@ -1,5 +1,4 @@
 # PM_SHRI_SCHOOLS_DATA_VISUALIZATION
-Interactive map of 836 schools across Bihar, built with Python, Pandas, GeoPandas, and Folium. Features crisp district boundaries, color-coded fills, PM SHRI logo markers, and hover tooltips. Published on the official Ministry of Education – PM SHRI Portal.
 # 📍 Bihar Schools Interactive Map (PM SHRI Project)
 
 ## 🔹 Project Overview  
@@ -8,8 +7,11 @@ The visualization highlights each school’s location, district boundaries, and 
 
 📢 Proud moment: this work, which started as a small sibling favour, has now been **adopted by the Ministry of Education, Bihar** and published on the **official PM SHRI Portal** of the **Ministry of Education, Government of India**.  
 
-https://tracker.bepcssa.in/PMShri_School/PM_Shri_School_On_Map.aspx - OFFICIAL LINK
+https://tracker.bepcssa.in/PMShri_School/PM_Shri_School_On_Map.aspx - Published on PM SHRI PORTAL 
 ---
+https://beginnersluck1810.github.io/Geospatial_Mapping_of_Bihar_Schools/ - Published - GITHUB Page 
+---
+
 
 ## 🔹 Problem Statement  
 The challenge was to take a raw, unorganized Excel dataset of schools and transform it into a clear, interactive visualization where:  
