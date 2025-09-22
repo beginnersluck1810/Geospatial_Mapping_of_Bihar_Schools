@@ -11,6 +11,9 @@ https://tracker.bepcssa.in/PMShri_School/PM_Shri_School_On_Map.aspx - Published 
 ---
 https://beginnersluck1810.github.io/Geospatial_Mapping_of_Bihar_Schools/ - Published GITHUB Page 
 ---
+🔗 [Published on PM SHRI Portal](https://tracker.bepcssa.in/PMShri_School/PM_Shri_School_On_Map.aspx)
+
+🔗 [Published GitHub Page](https://beginnersluck1810.github.io/Geospatial_Mapping_of_Bihar_Schools/)
 
 
 ## 🔹 Problem Statement  
